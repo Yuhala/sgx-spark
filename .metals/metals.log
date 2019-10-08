@@ -21,3 +21,7 @@ WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/examples/src/main/s
 WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
 WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
 WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
