@@ -31,3 +31,55 @@ WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala
 INFO  no build target: using presentation compiler with only scala-library
 something's wrong: no file:///home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala in Iterator[String]RangePosition(file:///home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala, 6658, 6658, 6674)
 WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/main/scala/org/apache/spark/util/SGXUtils.scala
+Oct 08, 2019 3:32:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Oct 08, 2019 3:32:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Oct 08, 2019 3:32:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Oct 08, 2019 3:36:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Oct 08, 2019 3:36:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Oct 08, 2019 3:36:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala

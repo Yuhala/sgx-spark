@@ -189,8 +189,7 @@ class RDDSuiteSGX extends SparkFunSuite {
     val t0 = System.nanoTime()
     val result = blockToTime
     val t1 = System.nanoTime()
-    val duration = (t1 - t0) / 1e9d
-    //println("Time elapsed: " + duration + " (seconds)");
+    val duration = (t1 - t0) / 1e9d    
     result
   }
 
