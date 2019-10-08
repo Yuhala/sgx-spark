@@ -1,0 +1,23 @@
+INFO  time: initialize in 0.24s
+WARN  Skipping build import for unsupported sbt version 0.13.16
+INFO  shutting down Metals
+INFO  time: initialize in 0.24s
+WARN  Skipping build import for unsupported sbt version 0.13.16
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/pom.xml
+  /home/petman/sgx-apps/forks/sgx-spark/project/MimaExcludes.scala
+  /home/petman/sgx-apps/forks/sgx-spark/project/SparkBuild.scala
+  /home/petman/sgx-apps/forks/sgx-spark/project/plugins.sbt
+  /home/petman/sgx-apps/forks/sgx-spark/project/build.properties
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/examples/src/main/scala/org/apache/spark/examples/LocalPi.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/examples/src/main/scala/org/apache/spark/examples/SparkPi.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/resource-managers/kubernetes/integration-tests/src/test/scala/org/apache/spark/deploy/k8s/integrationtest/ClientModeTestsSuite.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/resource-managers/kubernetes/integration-tests/src/test/scala/org/apache/spark/deploy/k8s/integrationtest/ClientModeTestsSuite.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/examples/src/main/scala/org/apache/spark/examples/SparkPi.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/examples/src/main/scala/org/apache/spark/examples/LocalPi.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
+WARN  no build target: /home/petman/sgx-apps/forks/sgx-spark/core/src/test/scala/org/apache/spark/rdd/RDDSuiteSGX.scala
